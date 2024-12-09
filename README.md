@@ -10,3 +10,7 @@ Theo Tổ chức Y tế Thế giới (WHO), đột quỵ luôn nằm trong top c
 |22120071      | Phan Bá Đức  |
 |22120182| Đặng Duy Lân| 
 |22120194| Nguyễn Nhật Long  | 
+
+## Biên bản họp nhóm
+
+[LINK.](https://obtainable-dryer-80c.notion.site/Project-LTKHDL-151ba06a98bc809aadb6faf969ea929f)
