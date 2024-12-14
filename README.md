@@ -11,6 +11,6 @@ Theo Tổ chức Y tế Thế giới (WHO), đột quỵ luôn nằm trong top c
 |22120182| Đặng Duy Lân| 
 |22120194| Nguyễn Nhật Long  | 
 
-## Biên bản họp nhóm
+Đồ án này được quản lý và thảo luận trên Notion . Truy cập liên kết dưới đây để biết thêm thông tin chi tiết
 
-[LINK.](https://obtainable-dryer-80c.notion.site/Project-LTKHDL-151ba06a98bc809aadb6faf969ea929f)
+[Project LTKHDL](https://obtainable-dryer-80c.notion.site/Project-LTKHDL-151ba06a98bc809aadb6faf969ea929f)
